@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @touchableAura
-- 👀 I’m a full stack developer working with react, express, mongo, sql, and node. I also code with python and c# in unity. 
+- 👀 I’m a full stack developer working with react, python, express, mongo, sql, and node. 
 - 🌱 I’m currently learning about react hooks, css, and multimedia.
 - 💞️ I’m looking to collaborate on community focused projects. 
 - 📫 How to reach me -> you can find my linkedin on my website: www.evancameron.dev

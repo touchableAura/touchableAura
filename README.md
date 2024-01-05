@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @touchableAura
+- 👀 I’m interested in coding with python, javascript, and c#.
+- 🌱 I’m currently learning about react hooks, css, and multimedia.
+- 💞️ I’m looking to collaborate on community focused projects. 
+- 📫 How to reach me -> you can find my linkedin on my website: www.evancameron.dev
